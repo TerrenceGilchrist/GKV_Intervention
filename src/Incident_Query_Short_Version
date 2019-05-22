@@ -1,4 +1,5 @@
 # Short Version of Query for Incidents at Premise of Georgia King Village
+# Developed; July 3, 2015
 
 
 "INCIDENTTYPE" = 'Agg Assault'  OR "INCIDENTTYPE" = 'Auto Theft'  OR "INCIDENTTYPE" =  'Burglary' OR "INCIDENTTYPE" =  'Homicide' OR 
