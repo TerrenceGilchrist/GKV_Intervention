@@ -1,0 +1,17 @@
+# Query for Date of Incident by Year and Time of Day
+
+
+# By Year
+
+select INCIDENTDATE, Location where INCIDENTDATE  LIKE '%2008%';
+from CRIME_2005_08182013
+
+
+# By Year, with Advanced Filter (Expression), Column Filter
+
+"INCIDENTDATE" LIKE '%2008-%'
+
+
+# Time of Day
+
+"INCIDENTTIME" LIKE '%0010%'
