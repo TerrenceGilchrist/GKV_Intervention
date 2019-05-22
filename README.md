@@ -15,7 +15,7 @@ SQL with QGIS for Analysis of Incident Data Across Census Blocks
 
 (c) *Incident_Query_by_Date_and_Time* - To eventually create a time series, diasggregating the data by time is available.
 
-(d) *Query_of_Census_Shapefiles* - The analysis involved 2,541 blocks. The grid coordinates seem to have the range (-74.248724, 40.67644) to (-74.115949, 40.7877995). The specific block-level Federal Information Processing System (FIPS) code for Georgia King Village is 340130015001011. For this block the respective parts of this FIPS code correspond to the following: State, 34; County FIPS Code, 013; Tract, 0015 or 15; and Block, 001011 or 1011. Incidentally, the Block Group is 1.
+(d) *Query_of_Census_Shapefiles* - The analysis involved 2,541 blocks. The grid coordinates seem to have the range (-74.248724, 40.67644) to (-74.115949, 40.7877995). The specific block-level Federal Information Processing System (FIPS) code for Georgia King Village is 340130015001011. For this block, the respective parts of this FIPS code correspond to the following: State, 34; County FIPS Code, 013; Tract, 0015 or 15; and Block, 001011 or 1011. Incidentally, the Block Group is 1.
 
 
 # Background
@@ -37,4 +37,4 @@ this neighborhood experienced the most statistically significant decrease in cri
 the change was 87 percent, or 15 incidents per month in August 2009 to 2 per month in March 2010.
 The attractor state of social determinants shifted as a result of interventions in interpersonal networks.
 
-   For a depiction of the outcomes, along with this same background description, see the enclosed one-page synopsis entitled "The Georgia King Village Intervention 2009-2010."
+   For a depiction of the outcomes, along with this same background description, see the enclosed one-page synopsis entitled "The Georgia King Village Intervention, 2009-2010."
