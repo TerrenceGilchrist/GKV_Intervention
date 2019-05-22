@@ -6,4 +6,4 @@
 
 "INCIDENTTYPE" =  'Murder' OR "INCIDENTTYPE" =  'Poss Of Weapon'  OR "INCIDENTTYPE" =  'Rape' OR "INCIDENTTYPE" =  'Robbery' OR 
 
-"INCIDENTTYPE" =  'Sexual Assault' OR "INCIDENTTYPE" =  'Theft' OR "INCIDENTTYPE" =  'Theft F/A'  AND "Location" =' GEORGIA KING VILLAGE'
+"INCIDENTTYPE" =  'Sexual Assault' OR "INCIDENTTYPE" =  'Theft' OR "INCIDENTTYPE" =  'Theft F/A'  AND "Location" = 'GEORGIA KING VILLAGE'
