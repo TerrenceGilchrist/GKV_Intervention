@@ -4,7 +4,7 @@ SQL with QGIS for Analysis of Incident Data Across Census Blocks
 
 # Purpose
 
-To analyze a citywide GIS layer of incident crime in the years of 2004 through 2013 from a database file provided by the Newark Police Department, the spatial analysis software QGIS was programmed with SQL code to disaggregate the data by year and census block.
+   To analyze a citywide GIS layer of incident crime in the years of 2004 through 2013 from a database file provided by the Newark Police Department, the spatial analysis software QGIS was programmed with SQL code to disaggregate the data by year and census block.
 
 
 # Source Code Folder Files (SRC)
@@ -20,7 +20,7 @@ To analyze a citywide GIS layer of incident crime in the years of 2004 through 2
 
 # Background
 
-While opening in 1976 as a place for middle class families escaping the public housing
+   While opening in 1976 as a place for middle class families escaping the public housing
 developments post-1967 Newark riots, mismanagement and the introduction of crack cocaine initiated
 a quarter-century of mayhem at this private apartment complex named after the founder’s Mother and
 Rev. Dr. King, Jr. In the early morning hours of July 1, 2009, three new guests arrived at this notorious
@@ -31,10 +31,10 @@ months, children were playing outside again due to the change in perception amon
 safety thus reducing the risk of obesity, particularly for Black girls. Incidentally, LGBTIQ adolescents
 were no longer harassed by gang affiliated peers.
 
-In an era of mass incarceration, this feat was accomplished with hardly any arrests and very
+   In an era of mass incarceration, this feat was accomplished with hardly any arrests and very
 few evictions. Of the top quartile of violent blocks in that town, a regression discontinuity reveals how
 this neighborhood experienced the most statistically significant decrease in crime. Over eight months
 the change was 87 percent, or 15 incidents per month in August 2009 to 2 per month in March 2010.
 The attractor state of social determinants shifted as a result of interventions in interpersonal networks.
 
-For a depiction of the outcomes, along with this same background desription, see the enclosed one-page synopsis entitled "The Georgia King Village Intervention 2009-2010."
+   For a depiction of the outcomes, along with this same background desription, see the enclosed one-page synopsis entitled "The Georgia King Village Intervention 2009-2010."
