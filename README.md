@@ -37,4 +37,4 @@ this neighborhood experienced the most statistically significant decrease in cri
 the change was 87 percent, or 15 incidents per month in August 2009 to 2 per month in March 2010.
 The attractor state of social determinants shifted as a result of interventions in interpersonal networks.
 
-   For a depiction of the outcomes, along with this same background description, see the enclosed one-page synopsis entitled "The Georgia King Village Intervention, 2009-2010."
+   For a depiction of the outcomes, along with this same background description, see the enclosed one-page synopsis entitled "The Georgia King Village Intervention 2009-2010."
