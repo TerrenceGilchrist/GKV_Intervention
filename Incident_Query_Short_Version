@@ -1,0 +1,8 @@
+# Short Version of Query for Incidents at Premise of Georgia King Village
+
+
+"INCIDENTTYPE" = 'Agg Assault'  OR "INCIDENTTYPE" = 'Auto Theft'  OR "INCIDENTTYPE" =  'Burglary' OR "INCIDENTTYPE" =  'Homicide' OR 
+
+"INCIDENTTYPE" =  'Murder' OR "INCIDENTTYPE" =  'Poss Of Weapon'  OR "INCIDENTTYPE" =  'Rape' OR "INCIDENTTYPE" =  'Robbery' OR 
+
+"INCIDENTTYPE" =  'Sexual Assault' OR "INCIDENTTYPE" =  'Theft' OR "INCIDENTTYPE" =  'Theft F/A'  AND "Location" =' GEORGIA KING VILLAGE'
