@@ -4,7 +4,7 @@ SQL with QGIS for Analysis of Incident Data Across Census Blocks
 
 # Purpose
 
-   To analyze a citywide GIS layer of incident crime in the years of 2004 through 2013 from a database file provided by the Newark Police Department, the spatial analysis software QGIS was programmed with SQL code to disaggregate the data by year and census block.
+   To analyze a citywide GIS layer of incident crime in the period of January 1, 2005 through August 18, 2013 from a database file provided by the Newark Police Department, the spatial analysis software QGIS was programmed with SQL code to disaggregate the data by year and census block.
 
 
 # Source Code Folder Files (SRC)
