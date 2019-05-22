@@ -1,4 +1,5 @@
 # Long Version of Query for Incidents at the Premises of Georgia King Villge
+# Developed: July 3, 2015
 
 
 "INCIDENTTYPE" = ' Georgia King Village' OR ' GEORGIA KING VILLAGE' OR '24 Georgia King Village' OR '24 GEORGIA KING VILLAGE' OR 
